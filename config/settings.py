@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     #my app
     'accounts',
+    'TodoList',
 
     #app installed
     "rest_framework",
